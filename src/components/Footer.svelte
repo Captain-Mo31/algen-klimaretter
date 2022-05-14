@@ -24,7 +24,7 @@
       <li class="my-2">
         <a
           class="p-2 rounded-lg hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800  hover:text-green-500 text-white transition-colors duration-200"
-          href="/kontakt"
+          href="/quellen"
         >
           Quellen
         </a>

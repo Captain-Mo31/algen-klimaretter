@@ -1,12 +1,5 @@
 <div class="py-2 ">
   <p class="py-2 text-center dark:text-white text-4xl font-apfel">Impressum</p>
-  <p class="py-2 text-black dark:text-white">Angaben gemäß § 5 TMG:</p>
-
-  <p class="py-2 text-black dark:text-white">Moritz, Philipp, Marten</p>
-  <p class="py-2 text-black dark:text-white">
-    <strong><p class="py-2 text-black dark:text-white">Webmaster:</p> </strong>
-    Moritz
-  </p>
 
   <p class="py-2 text-black dark:text-white">
     <strong
@@ -50,9 +43,11 @@
     und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch
     gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden,
     werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter
-    als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung
-    aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden
-    von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+    als solche gekennzeichnet. (Siehe
+    <a class="text-red-400" href="/quellen">Quellen</a>) Sollten Sie trotzdem
+    auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen
+    entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir
+    derartige Inhalte umgehend entfernen.
   </p>
   <br />
 </div>

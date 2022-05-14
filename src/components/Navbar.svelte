@@ -2,11 +2,11 @@
   import Logo from "./Logo.svelte";
 
   const items = [
-    { url: "/", name: "Home" },
     { url: "/funktion", name: "Natürliche Funktion" },
     { url: "/anbau", name: "Anbau" },
     { url: "/nutzung", name: "Nutzung" },
     { url: "/probleme", name: "Probleme" },
+    { url: "/", name: "Was noch zu tun ist" },
   ];
   let showMenu = false;
 </script>
@@ -29,17 +29,11 @@
             class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800  hover:text-green-500 text-white px-3 py-2 rounded-md text-3xl font-medium"
             href="/"
           >
-            Allgen der Klimaretter
+            Algen als Klimaretter
           </a>
         </div>
         <div class="hidden lg:block">
           <div class="ml-10 flex items-baseline space-x-4">
-            <a
-              class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500  px-3 py-2 rounded-md text-xl font-medium"
-              href="/"
-            >
-              Home
-            </a>
             <a
               class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500  px-3 py-2 rounded-md text-xl font-medium"
               href="/funktion"
@@ -63,6 +57,12 @@
               href="/probleme"
             >
               Probleme
+            </a>
+            <a
+              class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500 px-3 py-2 rounded-md text-xl font-medium"
+              href="/probleme"
+            >
+              Was noch zu tun ist
             </a>
           </div>
         </div>
