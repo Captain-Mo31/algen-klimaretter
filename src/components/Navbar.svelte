@@ -3,16 +3,16 @@
 
   const items = [
     { url: "/", name: "Home" },
-    { url: "/about", name: "Über uns" },
-    { url: "/shop", name: "Shop" },
-    { url: "/rezepte", name: "Rezepte" },
-    { url: "/partner", name: "Partner" },
+    { url: "/funktion", name: "Natürliche Funktion" },
+    { url: "/anbau", name: "Anbau" },
+    { url: "/nutzung", name: "Nutzung" },
+    { url: "/probleme", name: "Probleme" },
   ];
   let showMenu = false;
 </script>
 
 <nav
-  class=" bg-yellow-400 dark:bg-yellow-700 shadow mb-10  text-white font-apfel"
+  class=" bg-green-400 dark:bg-green-700 shadow mb-10  text-white font-apfel"
 >
   <div class="max-w-7xl mx-auto px-8">
     <div class="flex items-center justify-between h-24">
@@ -26,51 +26,43 @@
             <Logo />
           </a>
           <a
-            class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white px-3 py-2 rounded-md text-3xl font-medium"
+            class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800  hover:text-green-500 text-white px-3 py-2 rounded-md text-3xl font-medium"
             href="/"
           >
-            Fluffy
+            Allgen der Klimaretter
           </a>
         </div>
         <div class="hidden lg:block">
           <div class="ml-10 flex items-baseline space-x-4">
             <a
-              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
+              class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500  px-3 py-2 rounded-md text-xl font-medium"
               href="/"
             >
               Home
             </a>
             <a
-              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
-              href="/about"
+              class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500  px-3 py-2 rounded-md text-xl font-medium"
+              href="/funktion"
             >
-              Über&nbsp;uns
+              Natürliche Funktion
             </a>
             <a
-              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-whit hover:text-yellow-500 px-3 py-2 rounded-md text-xl font-medium"
-              href="/shop"
+              class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-whit hover:text-green-500 px-3 py-2 rounded-md text-xl font-medium"
+              href="/anbau"
             >
-              Shop
+              Anbau
             </a>
             <a
-              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
-              href="/rezepte"
+              class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500  px-3 py-2 rounded-md text-xl font-medium"
+              href="/nutzung"
             >
-              Rezepte
+              Nutzung
             </a>
             <a
-              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500 px-3 py-2 rounded-md text-xl font-medium"
-              href="/partner"
+              class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500 px-3 py-2 rounded-md text-xl font-medium"
+              href="/probleme"
             >
-              Partner
-            </a>
-            <!--Warenkorb-->
-            <a
-              href="/warenkorb"
-              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium "
-              aria-label="Warenkorb"
-            >
-              Warenkorb
+              Probleme
             </a>
           </div>
         </div>
@@ -110,7 +102,7 @@
       class="absolute inset-x-0 top-0 z-40 p-2 transition origin-top-right transform lg:hidden"
     >
       <div
-        class="overflow-hidden rounded-lg shadow-md bg-yellow-400dark:bg-bluegray-800"
+        class="overflow-hidden rounded-lg shadow-md bg-green-400dark:bg-bluegray-800"
       >
         <div class="px-3 pt-4">
           <div class="-mr-2  ">
@@ -118,7 +110,7 @@
               type="button"
               on:click={() => (showMenu = false)}
               aria-label="Toggle mobile menu"
-              class="inline-flex items-center justify-center p-2 text-red-500 rounded-md dark:hover:bg-bluegray-700 hover:text-red-600 hover:bg-blue-100 focus:outline-none"
+              class="inline-flex items-center justify-center p-2 text-white rounded-md bg-green-400 dark:bg-green-700 hover:bg-green-300 dark:hover:bg-green-600 focus:outline-none"
             >
               <span class="sr-only">Close main menu</span>
               <svg
@@ -145,7 +137,7 @@
           aria-labelledby="main-menu"
         >
           <div
-            class="px-4 pt-2 pb-3 space-y-2 md:px-8 bg-yellow-400 dark:bg-yellow-700"
+            class="px-4 pt-2 pb-3 space-y-2 md:px-8 bg-green-400 dark:bg-green-700"
             role="none"
           >
             {#each items as item}

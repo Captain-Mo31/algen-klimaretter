@@ -2,11 +2,6 @@
   Datenschutzerklärung
 </p>
 <div class="py-2ark:text-white  ">
-  <p>
-    Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der
-    EU-Datenschutzgrundverordnung (DSGVO), ist:
-  </p>
-  <p>Arnold Weißenegger</p>
   <p class="py-2 dark:text-white text-2xl">Ihre Betroffenenrechte</p>
   <p>
     Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können

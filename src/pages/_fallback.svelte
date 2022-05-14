@@ -19,7 +19,7 @@
         <br />
         <a
           href={$url("../")}
-          class="px-2 py-2 w-36 mt-16 font-light transition ease-in duration-200 hover:bg-yellow-400 border-2 text-lg border-gray-700 bg-yellow-300 focus:outline-none"
+          class="px-2 py-2 w-36 mt-16 font-light transition ease-in duration-200 hover:bg-green-400 border-2 text-lg border-gray-700 bg-green-300 focus:outline-none"
         >
           Gehe Zurück
         </a>

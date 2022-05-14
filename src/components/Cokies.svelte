@@ -254,7 +254,7 @@
       <div class="w-1/2">
         <button
           type="button"
-          class="font-apfel py-2 px-4  bg-yellow-400 dark:bg-yellow-700 dark:hover:bg-yellow-600 hover:bg-yellow-300 focus:ring-yellow-500 focus:ring-offset-yellow-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg "
+          class="font-apfel py-2 px-4  bg-green-400 dark:bg-green-700 dark:hover:bg-green-600 hover:bg-green-300 focus:ring-green-500 focus:ring-offset-green-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg "
           on:click={() => {
             cookie = false;
           }}

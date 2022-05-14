@@ -2,40 +2,12 @@
   <p class="py-2 text-center dark:text-white text-4xl font-apfel">Impressum</p>
   <p class="py-2 text-black dark:text-white">Angaben gemäß § 5 TMG:</p>
 
+  <p class="py-2 text-black dark:text-white">Moritz, Philipp, Marten</p>
   <p class="py-2 text-black dark:text-white">
-    Fluffy GMBH
-    <br />
-    Zur großen Erfrischung 1 20359 Hamburg
+    <strong><p class="py-2 text-black dark:text-white">Webmaster:</p> </strong>
+    Moritz
   </p>
-  <p class="py-2 text-black dark:text-white">
-    <strong
-      ><p class="py-2 text-black dark:text-white">Vertreten durch:</p>
-    </strong>
-    Arnold Weißenegger
-  </p>
-  <p class="py-2 text-black dark:text-white">
-    <strong><p class="py-2 text-black dark:text-white">Kontakt:</p></strong>
-    Telefon: 040 / 999 888<br />
-    E-Mail: <a href="py-2 mailto:kontakt@fluffy.de">kontakt@fluffy.de</a><br />
-  </p>
-  <p class="py-2 text-black dark:text-white">
-    <strong
-      ><p class="py-2 text-black dark:text-white">Umsatzsteuer-ID:</p></strong
-    >
 
-    Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: 963214752
-    <strong
-      ><p class="py-2 text-black dark:text-white">Wirtschafts-ID:</p></strong
-    >
-    8995135412
-    <strong>
-      <p class="py-2 text-black dark:text-white">
-        Überwachungsbehörde:
-      </p></strong
-    >
-    Bezirksamt Altona - Fachamt Verbraucherschutz, Gewerbe und Umwelt - Zentrale
-    Dienste
-  </p>
   <p class="py-2 text-black dark:text-white">
     <strong
       ><p class="py-2 text-black dark:text-white text-xl">
