@@ -2,7 +2,4 @@
   Die Natürliche Funktion von Algen
 </p>
 
-<p class="dark:text-white">
-  <br />
-  <br />
-</p>
+

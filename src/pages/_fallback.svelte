@@ -12,7 +12,9 @@
       <div
         class="flex w-full items-center justify-center space-x-12 flex-col md:flex-row mb-16 md:mb-8"
       >
-        <h1 class="font-thin text-center text-6xl text-gray-800">Verirrt?</h1>
+        <p class="font-thin text-center text-6xl text-gray-800 dark:text-white">
+          Verirrt?
+        </p>
         <button
           class="px-3 py-2 w-32 font-light transition ease-in duration-200 uppercase hover:bg-green-600 hover:text-white border-b text-2xl border-green-600 focus:outline-none"
           href={$url("../")}
@@ -297,4 +299,7 @@
       </div>
     </div>
   </div>
+
+  <div class="pb-10" />
+  <div class="pb-10" />
 </main>

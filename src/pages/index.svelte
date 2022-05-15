@@ -99,7 +99,7 @@
     <div
       class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
     >
-      <a href="/" class="w-full block h-full">
+      <a href="/zutun" class="w-full block h-full">
         <img
           alt="Forscher an einem Schreibtisch"
           src="/pictures/forschung.webp"
