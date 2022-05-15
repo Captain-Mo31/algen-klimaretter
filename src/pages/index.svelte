@@ -18,7 +18,7 @@
       <a href="/funktion" class="w-full block h-full">
         <img
           alt="blog photo"
-          src="public\pictures\natur.webp"
+          src="/pictures/natur.webp"
           class="max-h-40 w-full object-cover"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
