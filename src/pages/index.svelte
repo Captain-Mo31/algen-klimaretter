@@ -25,7 +25,7 @@
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
             Natürliche Funktion
           </p>
-          <p class="text-gray-400 dark:text-gray-300 font-light text-md">
+          <p class="text-gray-400 dark:text-gray-200 font-light text-md">
             Welche Funktion übernehmen Algen in der Natur?
           </p>
         </div>
@@ -44,7 +44,7 @@
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
             Anbau
           </p>
-          <p class="text-gray-400 dark:text-gray-300 font-light text-md">
+          <p class="text-gray-400 dark:text-gray-200 font-light text-md">
             Wie lassen sich Algen nachhaltig anbauen?
           </p>
         </div>
@@ -63,7 +63,7 @@
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
             Nutzung
           </p>
-          <p class="text-gray-400 dark:text-gray-300 font-light text-md">
+          <p class="text-gray-400 dark:text-gray-200 font-light text-md">
             Welche Nutzungsmöglichkeiten bieten Algen?
           </p>
         </div>
@@ -82,7 +82,7 @@
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
             Probleme
           </p>
-          <p class="text-gray-400 dark:text-gray-300 font-light text-md">
+          <p class="text-gray-400 dark:text-gray-200 font-light text-md">
             Welche Probleme gibt es noch?
           </p>
         </div>
@@ -101,7 +101,7 @@
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
             Was noch zu tun ist
           </p>
-          <p class="text-gray-400 dark:text-gray-300 font-light text-md">
+          <p class="text-gray-400 dark:text-gray-200 font-light text-md">
             Was noch getan werden muss um Algen als nachhaltige Lösung gegen den
             Klimawandel ein zu setzen?
           </p>
@@ -114,17 +114,17 @@
 <!--FAQ-->
 <div class="max-w-screen-xl mx-auto p-8">
   <h2
-    class="text-3xl font-extrabold leading-9 border-b-2 border-gray-100 text-gray-900 mb-12"
+    class="text-3xl font-extrabold leading-9 border-b-2 border-gray-200 text-gray-900 dark:text-white mb-12"
   >
     FAQ
   </h2>
   <ul class="flex items-start gap-8 flex-wrap">
     <li class="w-full md:w-2/5">
-      <p class="text-lg font-medium leading-6 text-gray-900">
+      <p class="text-lg font-medium leading-6 text-gray-900 dark:text-white">
         Warum gibt es dise Website?
       </p>
       <p class="mt-2" />
-      <p class="text-base leading-6 text-gray-500">
+      <p class="text-base leading-6 text-gray-600 dark:text-gray-200">
         Diese Website ist im Rahmen des Erdkundeunterrichtes entstanden. Aufgabe
         war es eine Möglichkeit zur Bekämpfung eines Umweltproblems zu suchen
         und dieses auf einem Weg unserer Wahl vorzustellen. Wir haben uns für
@@ -133,30 +133,32 @@
       </p>
     </li>
     <li class="w-full md:w-2/5">
-      <p class="text-lg font-medium leading-6 text-gray-900">
+      <p class="text-lg font-medium leading-6 text-gray-900 dark:text-white">
         Was machen wir auf dieser Website?
       </p>
       <p class="mt-2" />
-      <p class="text-base leading-6 text-gray-500">
+      <p class="text-base leading-6 text-gray-600 dark:text-gray-200">
         Diese Website soll ihnen einen guten Eindruck darüber geben welche
         Möglichkeiten bestehen um Algen zur Bekämpfung des Klimawandels bestehen
         und welche Funktionen Algen natürlicher Weise übernehmen
       </p>
     </li>
     <li class="w-full md:w-2/5">
-      <p class="text-lg font-medium leading-6 text-gray-900">Wer sind wir?</p>
+      <p class="text-lg font-medium leading-6 text-gray-900 dark:text-white">
+        Wer sind wir?
+      </p>
       <p class="mt-2" />
-      <p class="text-base leading-6 text-gray-500">
+      <p class="text-base leading-6 text-gray-600 dark:text-gray-200">
         Wir sind 3 Schüler aus dem 11 Jahrgangs eines Gymnasiums im schönen
         Niedersachsen.
       </p>
     </li>
     <li class="w-full md:w-2/5">
-      <p class="text-lg font-medium leading-6 text-gray-900">
+      <p class="text-lg font-medium leading-6 text-gray-900 dark:text-white">
         Worum geht es eigentlich?
       </p>
       <p class="mt-2" />
-      <p class="text-base leading-6 text-gray-500">
+      <p class="text-base leading-6 text-gray-600 dark:text-gray-200">
         Es geht darum, dass Algen eine sehr gute Möglichkeit sind den
         Klimawandel zu bekämpfen. Diese Möglichkeiten , wie die Verwendung als
         Plastik oder als nachhaltiger Energieträger, haben wir in unzähligen
@@ -177,8 +179,10 @@
       alt="Avatar Marten"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
-      <h3 class="font-title text-gray-800 text-xl mb-3">Marten</h3>
-      <p class="font-body">Erdkunde Experte</p>
+      <h3 class="font-title text-gray-800 dark:text-white text-xl mb-3">
+        Marten
+      </h3>
+      <p class="font-body dark:text-gray-200">Erdkunde Experte</p>
     </div>
   </div>
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
@@ -188,8 +192,10 @@
       alt="Avatar Moritz"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
-      <h3 class="font-title text-gray-800 text-xl mb-3">Moritz</h3>
-      <p class="font-body">Informatiker</p>
+      <h3 class="font-title text-gray-800 dark:text-white text-xl mb-3">
+        Moritz
+      </h3>
+      <p class="font-body dark:text-gray-200">Informatiker</p>
     </div>
   </div>
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
@@ -199,8 +205,10 @@
       alt="Avatar Philipp"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
-      <h3 class="font-title text-gray-800 text-xl mb-3">Philipp</h3>
-      <p class="font-body">Erdkunde Experte</p>
+      <h3 class="font-title text-gray-800 dark:text-white text-xl mb-3">
+        Philipp
+      </h3>
+      <p class="font-body dark:text-gray-200">Erdkunde Experte</p>
     </div>
   </div>
 </div>

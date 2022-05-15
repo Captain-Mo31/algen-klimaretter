@@ -26,7 +26,7 @@
             <Logo />
           </a>
           <a
-            class="md:hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800  md:hover:text-green-500 text-white px-3 py-2 rounded-md text-2xl md:text-3xl font-medium"
+            class="md:hover:bg-green-100 md:dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500  px-3 py-2 rounded-md text-2xl font-medium "
             href="/"
           >
             Algen als Klimaretter
