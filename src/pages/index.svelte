@@ -5,7 +5,7 @@
   metatags.description = "Description coming soon...";
 </script>
 
-<p class="text-center dark:text-white text-6xl font-apfel p-2 pb-0">
+<p class="text-center dark:text-white text-4xl md:text-6xl font-apfel p-2 pb-0">
   Algen als Klimaretter
 </p>
 

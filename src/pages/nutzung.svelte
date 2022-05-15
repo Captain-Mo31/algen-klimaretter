@@ -1,13 +1,14 @@
 <p
-  class="text-center text-black dark:text-white mb-8 mt-2 block text-5xl font-apfel "
+  class="text-center text-black dark:text-white mb-8 mt-2 block text-3xl md:text-5xl font-apfel "
 >
   Nutzungsmöglichkeiten
 </p>
 <div class="sm:flex flex-wrap justify-center items-center text-center gap-8">
   <div
-    class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 bg-white mt-6  shadow-lg rounded-lg dark:bg-gray-800"
+    href="/nahrung"
+    class=" w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 bg-white mt-6  shadow-lg rounded-lg dark:bg-gray-800"
   >
-    <div class="flex-shrink-0">
+    <div class="flex-shrink-0 ">
       <div
         class="flex items-center mx-auto justify-center h-12 w-12 rounded-md bg-green-500 text-white"
       >
@@ -36,6 +37,7 @@
     </p>
   </div>
   <div
+    href="/plastik"
     class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 mt-6 sm:mt-16 md:mt-20 lg:mt-24 bg-white shadow-lg rounded-lg dark:bg-gray-800"
   >
     <div class="flex-shrink-0">
@@ -67,6 +69,7 @@
     </p>
   </div>
   <div
+    href="/energie"
     class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 mt-6  px-4 py-4 bg-white shadow-lg rounded-lg dark:bg-gray-800"
   >
     <div class="flex-shrink-0">
