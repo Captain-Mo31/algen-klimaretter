@@ -17,9 +17,11 @@
     >
       <a href="/anbau" class="w-full block h-full">
         <img
-          alt="blog photo"
+          alt="Bild von schöner Natur"
           src="/pictures/natur.webp"
           class="max-h-40 w-full object-cover"
+          width="640"
+          height="489"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
@@ -36,9 +38,11 @@
     >
       <a href="/anbau" class="w-full block h-full">
         <img
-          alt="blog photo"
+          alt="Bild von Algen auf dem Wasser"
           src="/pictures/anbau.webp"
           class="max-h-40 w-full object-cover"
+          width="640"
+          height="427"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
@@ -55,9 +59,11 @@
     >
       <a href="/nutzung" class="w-full block h-full">
         <img
-          alt="blog photo"
+          alt="Kleine Plastik Teilchen"
           src="/pictures/platik.webp"
           class="max-h-40 w-full object-cover"
+          width="640"
+          height="480"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
@@ -74,9 +80,11 @@
     >
       <a href="/probleme" class="w-full block h-full">
         <img
-          alt="blog photo"
+          alt="Puzel"
           src="/pictures/probleme.webp"
           class="max-h-40 w-full object-cover"
+          width="640"
+          height="427"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
@@ -93,9 +101,11 @@
     >
       <a href="/" class="w-full block h-full">
         <img
-          alt="blog photo"
+          alt="Forscher an einem Schreibtisch"
           src="/pictures/forschung.webp"
           class="max-h-40 w-full object-cover"
+          width="640"
+          height="424"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
           <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
