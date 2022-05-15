@@ -11,11 +11,11 @@
 
 <div class="w-full  p-5">
   <div class="header flex items-end justify-between mb-12" />
-  <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-12">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
     <div
-      class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto"
+      class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
     >
-      <a href="/funktion" class="w-full block h-full">
+      <a href="/anbau" class="w-full block h-full">
         <img
           alt="blog photo"
           src="/pictures/natur.webp"
@@ -32,12 +32,12 @@
       </a>
     </div>
     <div
-      class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto"
+      class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
     >
       <a href="/anbau" class="w-full block h-full">
         <img
           alt="blog photo"
-          src="/pictures/algen.webp"
+          src="/pictures/anbau.webp"
           class="max-h-40 w-full object-cover"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
@@ -51,7 +51,7 @@
       </a>
     </div>
     <div
-      class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto"
+      class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
     >
       <a href="/nutzung" class="w-full block h-full">
         <img
@@ -70,7 +70,7 @@
       </a>
     </div>
     <div
-      class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto"
+      class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
     >
       <a href="/probleme" class="w-full block h-full">
         <img
@@ -89,7 +89,7 @@
       </a>
     </div>
     <div
-      class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto"
+      class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
     >
       <a href="/" class="w-full block h-full">
         <img
@@ -119,7 +119,7 @@
     FAQ
   </h2>
   <ul class="flex items-start gap-8 flex-wrap">
-    <li class="w-2/5">
+    <li class="w-full md:w-2/5">
       <p class="text-lg font-medium leading-6 text-gray-900">
         Warum gibt es dise Website?
       </p>
@@ -132,7 +132,7 @@
         das Thema interaktiv in ihrem Tempo zu entdecken.
       </p>
     </li>
-    <li class="w-2/5">
+    <li class="w-full md:w-2/5">
       <p class="text-lg font-medium leading-6 text-gray-900">
         Was machen wir auf dieser Website?
       </p>
@@ -143,7 +143,7 @@
         und welche Funktionen Algen natürlicher Weise übernehmen
       </p>
     </li>
-    <li class="w-2/5">
+    <li class="w-full md:w-2/5">
       <p class="text-lg font-medium leading-6 text-gray-900">Wer sind wir?</p>
       <p class="mt-2" />
       <p class="text-base leading-6 text-gray-500">
@@ -151,7 +151,7 @@
         Niedersachsen.
       </p>
     </li>
-    <li class="w-2/5">
+    <li class="w-full md:w-2/5">
       <p class="text-lg font-medium leading-6 text-gray-900">
         Worum geht es eigentlich?
       </p>

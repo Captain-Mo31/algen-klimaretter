@@ -6,7 +6,7 @@
     { url: "/anbau", name: "Anbau" },
     { url: "/nutzung", name: "Nutzung" },
     { url: "/probleme", name: "Probleme" },
-    { url: "/", name: "Was noch zu tun ist" },
+    { url: "/zutun", name: "Was noch zu tun ist" },
   ];
   let showMenu = false;
 </script>
@@ -60,7 +60,7 @@
             </a>
             <a
               class="hover:bg-green-100 dark:hover:bg-green-400 dark:hover:text-green-800 text-white hover:text-green-500 px-3 py-2 rounded-md text-xl font-medium"
-              href="/probleme"
+              href="/zutun"
             >
               Was noch zu tun ist
             </a>
