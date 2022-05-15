@@ -72,7 +72,7 @@
       </div>
       <div class="-mr-2 flex lg:hidden">
         <button
-          class="text-gray-800 dark:text-white hover:text-gray-300 inline-flex items-center justify-center p-2 rounded-md focus:outline-none"
+          class="text-gray-800 -m-8 dark:text-white hover:text-gray-300 inline-flex items-center justify-center p-2 rounded-md focus:outline-none"
           aria-label="show menu"
           on:click={() => {
             showMenu = true;
