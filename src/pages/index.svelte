@@ -37,7 +37,7 @@
       <a href="/anbau" class="w-full block h-full">
         <img
           alt="blog photo"
-          src="public\pictures\algen.webp"
+          src="/pictures/algen.webp"
           class="max-h-40 w-full object-cover"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
@@ -56,7 +56,7 @@
       <a href="/nutzung" class="w-full block h-full">
         <img
           alt="blog photo"
-          src="public\pictures\platik.webp"
+          src="/pictures/platik.webp"
           class="max-h-40 w-full object-cover"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
@@ -75,7 +75,7 @@
       <a href="/probleme" class="w-full block h-full">
         <img
           alt="blog photo"
-          src="public\pictures\probleme.webp"
+          src="/pictures/probleme.webp"
           class="max-h-40 w-full object-cover"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
@@ -94,7 +94,7 @@
       <a href="/" class="w-full block h-full">
         <img
           alt="blog photo"
-          src="public\pictures\forschung.webp"
+          src="/pictures/forschung.webp"
           class="max-h-40 w-full object-cover"
         />
         <div class=" dark:bg-gray-800 w-full p-4">
@@ -173,7 +173,7 @@
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
     <img
       class="w-48 h-48 rounded-full mx-auto -mb-24"
-      src="public\pictures\icondummy1.webp"
+      src="/pictures/icondummy1.webp"
       alt="Avatar Marten"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
@@ -184,7 +184,7 @@
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
     <img
       class="w-48 h-48 rounded-full mx-auto -mb-24"
-      src="public\pictures\iconMK.webp"
+      src="/pictures/iconMK.webp"
       alt="Avatar Moritz"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
@@ -195,7 +195,7 @@
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
     <img
       class="w-48 h-48 rounded-full mx-auto -mb-24"
-      src="public\pictures\icondummy2.webp"
+      src="/pictures/icondummy2.webp"
       alt="Avatar Philipp"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
