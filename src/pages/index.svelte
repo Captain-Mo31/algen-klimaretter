@@ -185,14 +185,14 @@
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
     <img
       class="w-48 h-48 rounded-full mx-auto -mb-24"
-      src="/pictures/icondummy1.webp"
+      src="/pictures/iconMW.webp"
       alt="Avatar Marten"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
       <h3 class="font-title text-gray-800 dark:text-white text-xl mb-3">
         Marten
       </h3>
-      <p class="font-body dark:text-gray-200">Erdkunde Experte</p>
+      <p class="font-body dark:text-gray-200">Geographie Experte</p>
     </div>
   </div>
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
@@ -211,14 +211,14 @@
   <div class="md:w-1/2 text-center mb-8 md:mb-0">
     <img
       class="w-48 h-48 rounded-full mx-auto -mb-24"
-      src="/pictures/icondummy2.webp"
+      src="/pictures/iconPS.webp"
       alt="Avatar Philipp"
     />
     <div class=" shadow-lg rounded-lg px-8 pt-32 pb-10 text-gray-400">
       <h3 class="font-title text-gray-800 dark:text-white text-xl mb-3">
         Philipp
       </h3>
-      <p class="font-body dark:text-gray-200">Erdkunde Experte</p>
+      <p class="font-body dark:text-gray-200">Geographie Experte</p>
     </div>
   </div>
 </div>
