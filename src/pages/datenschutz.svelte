@@ -1,29 +1,33 @@
-<p class="py-2 text-center dark:text-white text-4xl font-apfel ">
+<p class="py-2 text-center dark:text-white md:text-4xl text-3xl font-apfel ">
   Datenschutzerklärung
 </p>
-<div class="py-2ark:text-white  ">
+<div class="py-2  dark:text-white  ">
   <p class="py-2 dark:text-white text-2xl">Ihre Betroffenenrechte</p>
   <p>
     Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können
     Sie jederzeit folgende Rechte ausüben:
   </p>
-  <div class="prose font-montserat text-black dark:text-white">
-    <ul>
-      <li>
+  <div class=" font-montserat text-black dark:text-white">
+    <ul class="list-disc">
+      <li class="ml-10">
         Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung
         (Art. 15 DSGVO),
       </li>
-      <li>Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),</li>
-      <li>Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),</li>
-      <li>
+      <li class="ml-10">
+        Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),
+      </li>
+      <li class="ml-10">
+        Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),
+      </li>
+      <li class="ml-10">
         Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund
         gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO),
       </li>
-      <li>
+      <li class="ml-10">
         Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO)
         und
       </li>
-      <li>
+      <li class="ml-10">
         Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt
         haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
       </li>
@@ -385,13 +389,6 @@
     überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder
     Verteidigung von Rechtsansprüchen.
   </p>
-  <p class="py-2  dark:text-white text-xl">Empfänger eines Widerspruchs</p>
-  <p>
-    Fluffy GmbH
-    <br />Geschäftsführer: Arnold Weißenegger
-    <br />Fon: 040 / 999 888
-    <br />Email: Datenschutz@fluffy.de
-  </p>
   <hr />
   <p class="py-2 dark:text-white text-2xl">
     Änderung unserer Datenschutzbestimmungen
@@ -410,11 +407,5 @@
     Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail
     oder wenden Sie sich direkt an die für den Datenschutz verantwortliche
     Person in unserer Organisation:
-  </p>
-
-  <p class="pt-10 text-center">
-    Arnold Weißenegger
-    <br />Fon: 040 / 999 888
-    <br />Email: Datenschutz@fluffy.de
   </p>
 </div>

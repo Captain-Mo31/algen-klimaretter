@@ -242,7 +242,7 @@
       >
     </div>
     <span class="dark:text-white">
-      Wir verwenden ausschließlich Technisch Notwendige Cookies
+      Wir verwenden ausschließlich technisch notwendige Cookies
     </span>
     <div class="flex items-center justify-between">
       <a

@@ -135,11 +135,11 @@
       </p>
       <p class="mt-2" />
       <p class="text-base leading-6 text-gray-600 dark:text-gray-200">
-        Diese Website ist im Rahmen des Erdkundeunterrichtes entstanden. Aufgabe
-        war es eine Möglichkeit zur Bekämpfung eines Umweltproblems zu suchen
-        und dieses auf einem Weg unserer Wahl vorzustellen. Wir haben uns für
-        eine Internet Seite entschieden weil diese allen die Möglichkeit gibt
-        das Thema interaktiv in ihrem Tempo zu entdecken.
+        Diese Webseite ist im Rahmen des Erdkundeunterrichtes entstanden.
+        Aufgabe war es eine Möglichkeit zur Bekämpfung eines Umweltproblems zu
+        suchen und dieses auf einem Weg unserer Wahl vorzustellen. Wir haben uns
+        für eine Internet Seite entschieden weil diese allen die Möglichkeit
+        gibt das Thema interaktiv in ihrem Tempo zu entdecken.
       </p>
     </li>
     <li class="w-full md:w-2/5">
@@ -148,9 +148,9 @@
       </p>
       <p class="mt-2" />
       <p class="text-base leading-6 text-gray-600 dark:text-gray-200">
-        Diese Website soll ihnen einen guten Eindruck darüber geben welche
-        Möglichkeiten bestehen um Algen zur Bekämpfung des Klimawandels bestehen
-        und welche Funktionen Algen natürlicher Weise übernehmen
+        Diese Webseite soll ihnen einen guten Eindruck darüber geben welche
+        Möglichkeiten bestehen um Algen zur Bekämpfung des Klimawandels
+        einzusetzen und welche Funktionen Algen natürlicher Weise übernehmen
       </p>
     </li>
     <li class="w-full md:w-2/5">
