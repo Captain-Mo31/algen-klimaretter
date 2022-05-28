@@ -3,7 +3,7 @@
 </p>
 <br />
 
-<div class="grid grid-cols-2">
+<div class="grid md:grid-cols-2 grid-cols-1">
   <p class="mr-5 text-right">
     Algen, waren vor rund 3,5 Milliarden Jahren die ersten Sauerstoff
     produzierenden Organismen der Erde. Ihnen wird der Verdienst zugeschrieben,
