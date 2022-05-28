@@ -10,7 +10,7 @@
   <div
     class=" overflow-hidden w-full  grid justify-items-center dark:text-white font-montserat"
   >
-    <main class="w-11/12  lg:w-8/12  ">
+    <main class="w-11/12  lg:w-8/12  break-words">
       <slot />
     </main>
   </div>

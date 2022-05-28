@@ -159,8 +159,12 @@
       </p>
       <p class="mt-2" />
       <p class="text-base leading-6 text-gray-600 dark:text-gray-200">
-        Wir sind 3 Schüler aus dem 11 Jahrgangs eines Gymnasiums im schönen
-        Niedersachsen.
+        Wir sind Schüler der 11.Klasse an einem Gymnasium in Niedersachen. Wir
+        sind der Meinung, dass so wie es momentan aussieht unser grüner Planet,
+        bald nicht mehr grün sein könnte. Aufgrund dessen, wollen wir auf das
+        Thema Algen aufmerksam machen. Die Pflanzen, von denen viele meinen,
+        dass Sie unnötig oder gar “ekelhaft” wären, sind in Wahrheit ware
+        Klimaretter. Warum das so ist, erfahren Sie hier.
       </p>
     </li>
     <li class="w-full md:w-2/5">
