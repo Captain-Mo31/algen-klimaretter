@@ -16,7 +16,7 @@
   <div>
     <img
       alt="Group photo "
-      src="public/pictures/natur.webp"
+      src="/pictures/natur.webp"
       class="rounded-lg max-h-60"
     />
   </div>
