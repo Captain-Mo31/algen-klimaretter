@@ -5,7 +5,7 @@
   import Cokies from "../components/Cokies.svelte";
 </script>
 
-<body class="bg-gray-50  max-w-screen h-auto dark:bg-gray-900   ">
+<body class="bg-gray-100  max-w-screen h-auto dark:bg-gray-900   ">
   <Navbar />
   <div
     class=" overflow-hidden w-full  grid justify-items-center dark:text-white font-montserat"

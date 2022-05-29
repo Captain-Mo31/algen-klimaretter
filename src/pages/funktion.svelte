@@ -1,7 +1,7 @@
 <p class="text-center text-3xl md:text-5xl dark:text-white font-apfel">
   Die Natürliche Funktion von Algen
 </p>
-<div class="w-full  p-5">
+<div class="w-full  p-5 mx-auto">
   <div class="header flex items-end justify-between mb-12">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
       <div
@@ -20,7 +20,7 @@
               Leber der Meere
             </p>
             <p class="text-gray-400 dark:text-gray-200 font-light text-md">
-              Wie dienen Algen dazu die Meere zu reinigen ? &emsp;
+              Wie dienen Algen dazu die Meere zu reinigen ? &emsp;&emsp;&emsp;
             </p>
           </div>
         </a>
@@ -41,7 +41,7 @@
               Lunge der Meere
             </p>
             <p class="text-gray-400 dark:text-gray-200 font-light text-md">
-              Wie filtern Algen CO2 aus dem Meer?
+              Wie filtern Algen CO2 aus dem Meer? &emsp;&emsp;
             </p>
           </div>
         </a>
