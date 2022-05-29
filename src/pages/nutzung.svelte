@@ -69,6 +69,27 @@
           </div>
         </a>
       </div>
+      <div
+        class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
+      >
+        <a href="/energie" class="w-full block h-full">
+          <img
+            alt="Forscher an einem Schreibtisch"
+            src="/pictures/kosmetika.webp"
+            class="max-h-40 w-full object-cover"
+            width="640"
+            height="424"
+          />
+          <div class=" dark:bg-gray-800 w-full p-4">
+            <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
+              Sonstige Nutzung
+            </p>
+            <p class="text-gray-400 dark:text-gray-200 font-light text-md">
+              Welche anderen Möglichkeiten bieten Algen?
+            </p>
+          </div>
+        </a>
+      </div>
     </div>
   </div>
 </div>

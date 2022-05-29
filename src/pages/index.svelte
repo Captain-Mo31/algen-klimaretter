@@ -15,7 +15,7 @@
     <div
       class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:11/12 cursor-pointer m-auto"
     >
-      <a href="/anbau" class="w-full block h-full">
+      <a href="/funktion" class="w-full block h-full">
         <img
           alt="Bild von schöner Natur"
           src="/pictures/natur.webp"

@@ -4,16 +4,20 @@
   </p>
   <br />
   <p
-    class="text-center text-2xl md:text-4xl dark:text-white font-apfel mt-3 w-3/4 mx-auto"
+    class="text-center text-2xl md:text-4xl dark:text-white font-apfel mt-3 w-11/12 md:w-3/4 mx-auto"
   >
     Die Anfänge der Welt
   </p>
   <img
     alt="Group photo "
     src="/pictures/oxygen.webp"
-    class="w-3/4 my-10 rounded-lg mx-auto"
+    class="w-11/12 md:w-3/4 my-10 rounded-lg mx-auto"
+    width="640"
+    height="262"
   />
-  <p class="m-5 text-center text-jutify  w-3/4 mx-auto dark:text-white">
+  <p
+    class="m-5 text-center text-jutify  w-11/12 md:w-3/4 mx-auto dark:text-white"
+  >
     Algen, waren vor rund 3,5 Milliarden Jahren die ersten Sauerstoff
     produzierenden Organismen der Erde. Ihnen wird der Verdienst zugeschrieben,
     die giftige Uratmosphäre durch Photosynthese in eine sauerstoffreiche
@@ -22,16 +26,18 @@
     in Biomasse zu speichern und dann diesen zu Sauerstoff zu verwandeln.
   </p>
   <p
-    class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-3/4 mx-auto"
+    class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-11/12 md:w-3/4 mx-auto"
   >
     Ozeane als Kohlenstoffsenken
   </p>
   <img
-    alt="Group photo "
+    alt="sea "
     src="/pictures/sea.webp"
-    class="w-3/4 my-10 rounded-lg mx-auto"
+    class="w-11/12 md:w-3/4 my-10 rounded-lg mx-auto"
+    width="640"
+    height="270"
   />
-  <p class="m-5 text-center  w-3/4 mx-auto dark:text-white">
+  <p class="m-5 text-center  w-11/12 md:w-3/4 mx-auto dark:text-white">
     Auf Grund dessen sind Ozeane eine, wenn nicht die größten Kohlenstoffsenken
     der Erde. Sie speichern im Durchschnitt 25% des Kohlenstoffsdioxid, welches
     wir Menschen jährlich ausstoßen. Es wird geschätzt, dass Sie zwischen 1994
@@ -39,22 +45,24 @@
     speichern sie je nach Größe und Zustand ihres Lebensraums zwischen 627 und
     4324 Gramm Kohlenstoff pro Quadratmeter.
   </p>
-  <p class="m-5 text-center  w-3/4 mx-auto dark:text-white">
+  <p class="m-5 text-center  w-11/12 md:w-3/4 mx-auto dark:text-white">
     In der Ostsee bedecken die Lebensräume von Algen eine Fläche von ungefähr
     285 Quadratkilometern. Die Senkungsraten für organischen Kohlenstoff sind
     hier 30 bis 50-mal höher als in den Wäldern an Land.
   </p>
   <p
-    class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-3/4 mx-auto"
+    class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-11/12 md:w-3/4 mx-auto"
   >
     Filterung in Städten
   </p>
   <img
-    alt="Group photo "
+    alt="smog"
     src="/pictures/smog.webp"
-    class="w-3/4 my-10 rounded-lg mx-auto"
+    class="w-11/12 md:w-3/4 my-10 rounded-lg mx-auto"
+    width="639"
+    height="277"
   />
-  <p class="m-5 text-center  w-3/4 mx-auto dark:text-white">
+  <p class="m-5 text-center  w-11/12 md:w-3/4 mx-auto dark:text-white">
     Aber es gibt auch schon Ansätze, von der besonderen Fähigkeit der Algen in
     der Stadt Gebrauch zu machen. In Paris kann man mittlerweile diverse Säulen
     vorfinden, die effektiv das CO2 aus der Luft filtern. Diese Säulen sind mit
@@ -62,7 +70,7 @@
     Säulen selbst schwimmen Mikroalgen. Experten schätzen, dass diese Säulen
     eine Auffangsleistung von ca. 112 Bäumen pro Säule haben.
   </p>
-  <p class="m-5 text-center pb-5  w-3/4 mx-auto dark:text-white">
+  <p class="m-5 text-center pb-5  w-11/12 md:w-3/4 mx-auto dark:text-white">
     Desweiteren werden die Algen, welche das CO2 bereits aufgenommen haben, zu
     Klärschlamm weiterverarbeitet und dieser wird wiederum genutzt um in
     Biogasanlagen Strom zu produzieren. Gleichzeitig eignet sich das erzeugte
