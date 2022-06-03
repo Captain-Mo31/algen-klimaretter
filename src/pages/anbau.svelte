@@ -66,11 +66,6 @@
     et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
     dolor sit amet.
   </p>
-  <p class="m-5 text-center  w-11/12 md:w-3/4 mx-auto dark:text-white">
-    In der Ostsee bedecken die Lebensräume von Algen eine Fläche von ungefähr
-    285 Quadratkilometern. Die Senkungsraten für organischen Kohlenstoff sind
-    hier 30 bis 50-mal höher als in den Wäldern an Land.
-  </p>
   <p
     class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-11/12 md:w-3/4 mx-auto"
   >
@@ -84,9 +79,9 @@
     height="277"
   />
   <p class="m-5 text-center  w-11/12 md:w-3/4 mx-auto dark:text-white">
-    Momentan erfolgt die Gewinnung von Algen ausschließlich an der Küste oder an
-    küstennahen Meeresgebieten. Es gibt aber auch schon Ansätzte Algen außerhalb
-    dieses beschränkten Gebietes anzubauen.
+    Momentan erfolgt die Gewinnung von Algen fast ausschließlich an der Küste
+    oder an küstennahen Meeresgebieten. Es gibt aber auch schon Ansätzte Algen
+    außerhalb dieses beschränkten Gebietes anzubauen.
   </p>
   <p class="m-5 text-center pb-5  w-11/12 md:w-3/4 mx-auto dark:text-white">
     Algenfarmen produzieren jährlich mehr als 25 Millionen Tonnen. Der weltweite
