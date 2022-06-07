@@ -1,130 +1,91 @@
 <div class="shadow-xl rounded-lg w-full mx-auto bg-green-50 dark:bg-green-900">
-    <p class="text-center text-3xl md:text-5xl dark:text-white font-apfel pt-5">
-      Die Leber der Meere
-    </p>
-    <br />
-    <p
-      class="text-center text-2xl md:text-4xl dark:text-white font-apfel mt-3 w-11/12 md:w-3/4  mx-auto"
-    >
-      Filtern des Wassers
-    </p>
-    <img
-      alt="Group photo "
-      src="/pictures/filter.webp"
-      class="w-11/12 md:w-3/4  my-10 rounded-lg mx-auto"
-      width="640"
-      height="262"
-    />
-    <p
-      class="m-5 text-center text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white"
-    >
-      Algen haben die Fähigkeit giftige Schwermetalle von Tankerunglücken aus dem
-      Wasser zu filtern und diese in Form von Biomasse zu verschließen. Da sie
-      diese Toxine aus dem Wasser filtern, ist es unwahrscheinlicher, dass
-      Meeresbewohner mit Schadstoffen und Schwermetallen belastet sein könnten.
-      Das ist nicht nur gut für diese Organismen selbst, sondern auch für uns
-      Menschen, da wir ja schlussendlich die Fische, welche potentiell
-      Schwermetalle hätten aufnehmen können, konsumieren.
-    </p>
-    <p
-      class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Nachteile und Gefahren
-    </p>
-    <img
-      alt="Group photo "
-      src="/pictures/nachteile.webp"
-      class="w-11/12 md:w-3/4  my-10 rounded-lg mx-auto"
-      width="638"
-      height="357"
-    />
-    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white">
-      Allerdings haben Algen mit dieser Fähigkeit einen entscheidenden Nachteil.
-      Denn der Verzehr von Algen im täglichen Leben wird heutzutage immer
-      moderner, aber diese Algen enthalten Stoffe, die für den Körper giftig sind.
-    </p>
-    <p
-      class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Aufgenommene Stoffe
-    </p>
-    <img
-      alt="Group photo "
-      src="/pictures/gefahr.webp"
-      class="w-11/12 md:w-3/4  my-10 rounded-lg mx-auto"
-      width="800"
-      height="392"
-    />
-    <p
-      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Cadmium
-    </p>
-    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white">
-      Der gesetzliche Höchstgehalt in getrockneten Algen zur Verwendung in
-      Nahrungsergänzungsmitteln von 3 mg/kg Körpergewicht wurde bei jeder zehnten
-      untersuchten Probe überschritten.
-    </p>
-    <p
-      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Blei
-    </p>
-    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white">
-      Diese lagen bei etwa 10 % der Proben mit dem höchsten Bleigehalt im Bereich
-      von 1 bis 10 mg/kg. Bis heute wurden keine maximal zulässigen Bleigehalte in
-      Meeresalgen festgelegt. Diese gesetzliche Höchstgrenze soll allerdings
-      eingeführt werden und ist Gegenstand aktueller Beratungen beim
-      gesundheitlichen Verbraucherschutz.
-    </p>
-    <p
-      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Arsen
-    </p>
-    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white">
-      Die durchschnittlichen Arsengehalte in den untersuchten Algenproben lagen
-      zwar bei etwa 25 mg/kg, jedoch fast ausschließlich in organisch gebundener
-      Form und wurden nicht ausreichend auf gesundheitliche Risiken untersucht.
-      Allerdings wurde in 42 % der Proben auch anorganisches Arsen nachgewiesen,
-      wobei hier das Ergebnis mit 0,1 mg/kg nur knapp über der laboranalytischen
-      Nachweisgrenze und damit auf sehr niedrigem Niveau liegt.
-    </p>
-    <p
-      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Aluminium
-    </p>
-    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white">
-      Der durchschnittliche Aluminiumgehalt in den untersuchten Algenblättern lag
-      bei etwa 100 mg/kg. Die für 1 mg pro kg Körpergewicht Aluminium
-      vorgeschriebene Tolerable Weekly Intake (TWI) wird laut
-      Expositionsabschätzung des BfR, durch den Verzehr von Algen nur in einem
-      sehr geringen Bereich bis maximal 0,15 % aufgebraucht.
-    </p>
-    <p
-      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Uran
-    </p>
-    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white">
-      Trotz nachgewiesener hoher Dosen von Uran beträgt hier laut BfR die
-      Ausschöpfungsrate der tolerierbaren täglichen Aufnahmemenge (TDI, Tolerable
-      Daily Intake) in Höhe von 0,6 μg/kg Körpergewicht nur maximal 0,19 %. Im
-      Hinblick auf die gemessenen Uran-Ergebnisse sind daher keine
-      gesundheitlichen Risiken zu erwarten.
-    </p>
-    <p
-      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
-    >
-      Jod
-    </p>
-    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white pb-5">
-      Bei drei Viertel aller getesteten Algenproben wurden Jodgehalte über 20
-      mg/kg gemessen. Überschüssiges Jod kann bei langfristiger Einnahme sowohl zu
-      einer jodinduzierten Überfunktion, als auch zu einer Unterfunktion der
-      Schilddrüse führen. Als maximale Zufuhr in Deutschland empfiehlt das BfR 0,5
-      mg Jod pro Tag.
-    </p>
-  </div>
-  
+  <p class="text-center text-3xl md:text-5xl dark:text-white font-apfel pt-5">
+    Algen als Plastik
+  </p>
+  <br />
+  <p
+    class="text-center text-2xl md:text-4xl dark:text-white font-apfel mt-3 w-11/12 md:w-3/4  mx-auto"
+  >
+    Algen als Verpackung
+  </p>
+  <img
+    alt="Group photo "
+    src="/pictures/verpackung.webp"
+    class="w-11/12 md:w-3/4  my-10 rounded-lg mx-auto"
+    width="640"
+    height="262"
+  />
+  <p
+    class="m-5 text-center text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white"
+  >
+    Aufgrund der widrigen Bedingungen welchen die Algen in der Natur ausgesetzt
+    sind besitzen sie eine flexible und trotzdem feste Strucktur. Durch diese
+    Eigenschaften eignen sie sich optimal zur Herstellung von verschiedenen
+    Verpackungsmöglichkeiten. So können sie in einer Gelatine Artigen Form oder
+    in einer festen Form genutzt werden. Es gibt schon verschiedene Ansätze
+    Algen als Verpackung zu nuten. Unteranderem in Zusammenabreit mit der
+    Restaurantkette „Nordsee“. Es sind sogar bereits Strohhalme oder Tüten aus
+    Algen und Seegras im Umlauf.
+  </p>
+  <p
+    class="text-center text-xl md:text-3xl dark:text-white font-apfel mt-3 w-11/12 md:w-3/4  mx-auto"
+  >
+    Nachteile / Probleme
+  </p>
+  <p
+    class="m-5 text-center text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white"
+  >
+    Es wird sich aber noch zeigen müssen wie nachhaltig diese Lösungen wirklich
+    sind. Denn unklar ist ob und wie sich die Algenprodukte recyceln lassen. Das
+    ist auch maßgeblich davon abhängig aus welchen Stoffen die Produkte sonst
+    noch hergestellt werden. Denn nur wenn sich die Verpackungen in einer
+    normalen Kompostieranlage beziehungsweise unter normalen Umweltbedingungen
+    zersetzen lassen stellen sie eine Umweltfreundliche Alternative da. Wenn
+    nicht müssten die Produkte weiter verbrannt oder zur Deponie gebracht
+    werden. Zusätzlich besteht das Problem, dass die Menschen die Produkte
+    einfach in die Umwelt zu entsorgen, unter der Annahme das die sich ja
+    zersetzen. Wenn dies aber nicht der Fall ist, schadet es wieder der Umwelt.
+  </p>
+  <p
+    class="text-center text-2xl md:text-4xl dark:text-white font-apfel mt-3 w-11/12 md:w-3/4  mx-auto"
+  >
+    Algen als Plastik in der Produktherstellung
+  </p>
+  <img
+    alt="Group photo "
+    src="/pictures/schuhe.webp"
+    class="w-11/12 md:w-3/4  my-10 rounded-lg mx-auto"
+    width="640"
+    height="262"
+  />
+  <p
+    class="m-5 text-center text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white"
+  >
+    Eine weitere Möglichkeit ist es Algen als Plastik zur Herstellung von
+    Produkte zu nutzen. Es gibt schon Ansätze um dieses zu tun. Eine dieser
+    Firmen ist „Bloom“ aus den Vereinigten Staaten. Ihnen ist es gelungen ein
+    Verfahren zu entwickeln wie sich Algen wirtschaftlich tragfähig nutzen
+    lassen. Sie brachten 2016 einen Algen Kunstsoff auf den Markt welcher in der
+    Schuhindustrie zum Einsatz kam. Dabei wurde eine Art Algenschaum im
+    Spritzgussverfahren, wie auch herkömmlicher Kunststoff, als Obermaterial für
+    einen Schuh genutzt. Heutzutage werden aus diesem Material die
+    verschiedensten Produkte von Schuhen bis Surfbretter hergestellt. Darunter
+    sind auch einige sehr bekannte Marken wie „Adidas“, „Jack Wolfskin“, „Puma“,
+    „Reebok“, „Tommy Hilfiger“ und viele weitere.
+    <br /> <br />
+    Dieses Beispiel zeigt wie vielfältig sich Algen in Zukunft als Ersatz für Plastik
+    nutzen lassen werde und wie viel Plastik wir vermutlich dadurch in der Zukunft
+    einsparen können.
+  </p>
+  <p
+    class="text-center text-xl md:text-3xl dark:text-white font-apfel mt-3 w-11/12 md:w-3/4  mx-auto"
+  >
+    Nachteile / Probleme
+  </p>
+  <p
+    class="pb-5 m-5 text-center text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white"
+  >
+    Es zeigen sich hier aber auch wieder die gleichen Probleme wie bei der
+    Nutzung von Algen als Verpackung.
+  </p>
+</div>
