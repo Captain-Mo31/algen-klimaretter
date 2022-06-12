@@ -142,6 +142,11 @@
       (03.06.2022)
     </li>
     <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Peter Carstens o. J.: Biogas aus der Algenfabrik. Internet:
+      https://www.geo.de/natur/nachhaltigkeit/3806-rtkl-erneuerbare-energien-biogas-aus-der-algenfabrik
+      (07.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
       Susanne Decker 2018: Algen als Treibstoff. Internet:
       https://www.planet-wissen.de/natur/pflanzen/algen/pwiealgenimtank100.html
       (03.06.2022)
@@ -183,6 +188,16 @@
       https://www.quarks.de/umwelt/klimawandel/darum-sollten-wir-algen-lieben/
       (25.05.2022)
     </li>
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">Leber:</p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Beke Enderstein(2021): Algen essen: Gesund oder gefährlich? Internet:
+      https://www.sevencooks.com/de/magazin/algen-essen-gesund-oder-gefaehrlich-6SnYArpMaaahFz8mfCW32t
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Vanessa Reske (2019): Darum sollten wir Algen lieben. Internet:
+      https://www.quarks.de/umwelt/klimawandel/darum-sollten-wir-algen-lieben/
+      (25.05.2022)
+    </li>
     <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">Anbau:</p>
     <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
       AlgenProjekt o. J.: Algenkultivierung im Meer. Internet:
@@ -198,6 +213,47 @@
     <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
       Martina Hilz 2019: Algenwälder als Hoffnungsträger. Internet:
       https://enorm-magazin.de/umwelt/umweltschutz/klimaschutz/seegraswiesen-und-algenwalder-als-hoffnungstraeger
+      (07.06.2022)
+    </li>
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">Allgemein:</p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Vanessa Reske (2019): Darum sollten wir Algen lieben. Internet:
+      https://www.quarks.de/umwelt/klimawandel/darum-sollten-wir-algen-lieben/
+      (25.05.2022)
+    </li>
+
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">
+      Nutzung als Nahrung:
+    </p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Peter Hermes (2018): Grüne Welle. Internet:
+      https://www.faz.net/aktuell/stil/essen-trinken/kann-die-weltbevoelkerung-durch-meeresalgen-ernaehrt-werden-15909885.html
+      (13.05.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Susanne Decker 2018: Algen. Internet:
+      https://www.planet-wissen.de/natur/pflanzen/algen/index.html (29.05.2022)
+    </li>
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">
+      Nutzung als Plastik:
+    </p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Bloom o.J.: Bloom. Internet: https://www.bloommaterials.com/ (29.05.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Jonas Buske (2020): Algen als Plastikersatz: Löst das unser Umweltproblem?
+      Internet:
+      https://www.wmn.de/insights/loesen-algen-unser-plastikproblem-id29746
+      (07.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Kle o. J.: Alge statt Plastik - Der natürliche Alleskönner. Internet:
+      https://www.ecowoman.de/koerper-geist/yoga/schaumstoff-und-plastikstoffe-aus-algenblueten-als-nachhaltiger-eco-ersatz-4245
+      (29.05.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Plastikalternative o. J.: Können Algen eine Alternative zu Kunststoffen
+      sein? Internet: https://www.plastikalternative.de/verpackungen-aus-algen/
       (07.06.2022)
     </li>
   </ul>
