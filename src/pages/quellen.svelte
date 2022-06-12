@@ -324,7 +324,7 @@
       (07.06.2022)
     </li>
     <p class="text-center  text-xl md:text-3xl pb-5 font-apfel dark:text-white">
-      all md:break-wordsgemein:
+      Allgemein:
     </p>
     <li
       class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white break-all md:break-words"
