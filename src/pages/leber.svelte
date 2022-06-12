@@ -36,10 +36,10 @@
   >
     Desweiteren leiden viele Gewässer an einer Übersäuerung des Wasser. Dies
     lässt sich weitesgehend auf diverse anthrogene Faktoren (Bspw. die
-    CO2-Emission <a href="/lunge">Hier Link zur Lunge</a>) zurückführen. Dadurch
-    enstehen Reaktionen mit Hydrogencarbonat, Carbonat und Hydroniumionen. In
-    Folge dessen entstehenden Oxoniumionen (H3O+), welche den sinkenden pH-Wert
-    im Wasser verursachen. Ist die Versauerung des Wassers gelöstem CO2
+    CO2-Emission <a href="/lunge">Lunge</a>) zurückführen. Dadurch enstehen
+    Reaktionen mit Hydrogencarbonat, Carbonat und Hydroniumionen. In Folge
+    dessen entstehenden Oxoniumionen (H3O+), welche den sinkenden pH-Wert im
+    Wasser verursachen. Ist die Versauerung des Wassers gelöstem CO2
     verschuldet, so kann Calciumcarbonat (CaCO3) entgegen wirken. Dieses
     befindet sich wiederum größtenteils in Algen, um genau zu sein in
     Coccolithophoriden (eine Gruppe der Kalkalgen). Aber es wird auch schon in

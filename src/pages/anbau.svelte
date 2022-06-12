@@ -61,9 +61,7 @@
     und gesteuerter Verlaufen kann, sodass die Algen unter optimalen Bedingungen
     wachsen können. Hierraus ergibt sich eine schlussendliche hohe Qualtität an Algenprodukte,
     aber auch ein ziemlich hoher Kosten-Nutzenpunkt, da diese Systeme einen hohen
-    Einsatz an Mitteln und Arbeitskräften erfordern. Momentan erfolgt die Gewinnung
-    von Algen **fast** an der Küste oder an küstennahen Meeresgebieten. Es gibt aber
-    auch schon Ansätzte Algen außerhalb dieses beschränkten Gebietes anzubauen.
+    Einsatz an Mitteln und Arbeitskräften erfordern.
   </p>
   <p
     class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-11/12 md:w-3/4 mx-auto"
