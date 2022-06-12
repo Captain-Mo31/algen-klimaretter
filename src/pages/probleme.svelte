@@ -34,7 +34,7 @@
         <a href="/giftigealgen" class="w-full block h-full">
           <img
             alt="Bild von Algen auf dem Wasser"
-            src="/pictures/nachteile.webp"
+            src="/pictures/lab.webp"
             class="max-h-40 w-full object-cover"
             width="640"
             height="427"
@@ -44,7 +44,7 @@
               Giftige Algen
             </p>
             <p class="text-gray-400 dark:text-gray-200 font-light text-md">
-              Warum sinf giftige Algen gefährlich?
+              Warum sind giftige Algen gefährlich?
             </p>
           </div>
         </a>

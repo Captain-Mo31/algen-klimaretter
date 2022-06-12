@@ -100,7 +100,7 @@
       0,5 mg Jod pro Tag.
     </p>
     <p
-      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
+      class="text-center text-2xl md:text-4xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
     >
       Sollte man jetzt ganz auf den Verzehr von Algen verzichten?
     </p>
