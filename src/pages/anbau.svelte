@@ -6,11 +6,7 @@
   <p
     class="m-5 text-center text-jutify  w-11/12 md:w-3/4 mx-auto dark:text-white"
   >
-    Algenfarmen produzieren jährlich mehr als 25 Millionen Tonnen. Der weltweite
-    Wert dieser Kultur übersteigt mit 6,4 Milliarden US-Dollar (Stand 2014)
-    knapp den von Zitronen. Die Algenzucht hat sich seit den späten 1950er
-    Jahren zu einem Wirtschaftszweig entwickelt, der nachhaltige Arbeitsplätze
-    in Entwicklungs- und Schwellenländern bietet.
+  Laut dem kanadischen Istitut für Umwelt, Wasser und Gesundheit der UN-Universität und der Scottish Association for Marine Science, übersteigt der weltweite Wert der Algenkultur mit 6,4 Milliarden US-Dollar (Stand 2014) knapp den von Zitronen und Limetten. Die Algenzucht hätte sich seit den späten 1950er Jahren zu einem Wirtschaftszweig entwickelt, der nachhaltige Arbeitsplätze in Entwicklungs- und Schwellenländern bietet.
     <br /> <br />
     Bei dem Algenanbau, unterscheidet man zwischen offenen und geschlossenen Kultivierungssystemen.
     Beide haben ihren Zweck und ihre Vor- und Nachteile.
@@ -82,8 +78,10 @@
     height="277"
   />
   <p class="pb-5 m-5 text-center  w-11/12 md:w-3/4 mx-auto dark:text-white">
-    Momentan erfolgt die Gewinnung von Algen fast ausschließlich an der Küste
-    oder an küstennahen Meeresgebieten. Es gibt aber auch schon Ansätzte Algen
-    außerhalb dieses beschränkten Gebietes anzubauen.
+    Früher erfolgt die Gewinnung von Algen fast ausschließlich an der Küste oder
+    an küstennahen Meeresgebieten. Es gab aber auch schon Ansätzte Algen
+    außerhalb dieses beschränkten Gebietes anzubauen. Heutzutage werden Algen
+    immer frequenter und gezielter gezüchtet, wie man es in der oben stehenden
+    Grafik erkennen kann.
   </p>
 </div>

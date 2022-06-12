@@ -26,4 +26,24 @@
     Menschen, da wir ja schlussendlich die Fische, welche potentiell
     Schwermetalle hätten aufnehmen können, konsumieren.
   </p>
+  <p
+    class="text-center text-2xl md:text-4xl dark:text-white font-apfel mt-3 w-11/12 md:w-3/4  mx-auto"
+  >
+    Übersäuerung von Gewässern
+  </p>
+  <p
+    class="pb-5 m-5 text-center text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white"
+  >
+    Desweiteren leiden viele Gewässer an einer Übersäuerung des Wasser. Dies
+    lässt sich weitesgehend auf diverse anthrogene Faktoren (Bspw. die
+    CO2-Emission <a href="/lunge">Hier Link zur Lunge</a>) zurückführen. Dadurch
+    enstehen Reaktionen mit Hydrogencarbonat, Carbonat und Hydroniumionen. In
+    Folge dessen entstehenden Oxoniumionen (H3O+), welche den sinkenden pH-Wert
+    im Wasser verursachen. Ist die Versauerung des Wassers gelöstem CO2
+    verschuldet, so kann Calciumcarbonat (CaCO3) entgegen wirken. Dieses
+    befindet sich wiederum größtenteils in Algen, um genau zu sein in
+    Coccolithophoriden (eine Gruppe der Kalkalgen). Aber es wird auch schon in
+    der Genforschung an neuen Arten gearbeitet, die spezifisch auf diese Aufgabe
+    ausgelegt werden.
+  </p>
 </div>

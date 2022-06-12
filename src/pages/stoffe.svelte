@@ -99,5 +99,17 @@
       Schilddrüse führen. Als maximale Zufuhr in Deutschland empfiehlt das BfR
       0,5 mg Jod pro Tag.
     </p>
+    <p
+      class="text-center text-1xl md:text-3xl dark:text-white font-apfel  w-11/12 md:w-3/4  mx-auto"
+    >
+      Sollte man jetzt ganz auf den Verzehr von Algen verzichten?
+    </p>
+    <p class="m-5 text-center  w-11/12 md:w-3/4  mx-auto dark:text-white pb-5">
+      Nein, denn es gibt immernoch extra für den Verzehr geeignete Algen mit
+      einem geringen Jodanteil. Gegen einen gelegentlichen, moderaten Genuss an
+      jodarmen Sorten wie Nori-Algen oder Ulva spricht an sich nichts. Man kann
+      zudem noch den Jodgehalt zusätzlich durch Waschen und Einweichen
+      verringern.
+    </p>
   </div>
 </div>
