@@ -92,4 +92,113 @@
       https://unsplash.com/photos/pmfJcN7RGiw
     </li>
   </ul>
+  <p class="text-center  text-2xl md:text-4xl pb-5 font-apfel">
+    Informationen:
+  </p>
+  <ul class="list-disc">
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">
+      Sonstige-Nutzung:
+    </p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Martina Hilz 2019: Algenwälder als Hoffnungsträger. Internet:
+      https://enorm-magazin.de/umwelt/umweltschutz/klimaschutz/seegraswiesen-und-algenwalder-als-hoffnungstraeger
+      (07.06.2022)
+    </li>
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">Probleme:</p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Martina Hilz 2019: Algenwälder als Hoffnungsträger. Internet:
+      https://enorm-magazin.de/umwelt/umweltschutz/klimaschutz/seegraswiesen-und-algenwalder-als-hoffnungstraeger
+      (07.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Susanne Decker 2018: Algen als Treibstoff. Internet:
+      https://www.planet-wissen.de/natur/pflanzen/algen/pwiealgenimtank100.html
+      (03.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Susanne Decker 2018: Algen. Internet:
+      https://www.planet-wissen.de/natur/pflanzen/algen/index.html (29.05.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Svjetlana Pejic-Pulkowski o. J.: Was Sie über Algen wissen sollten.
+      Internet:
+      https://www.geo.de/natur/oekologie/4203-rtkl-algen-was-sie-ueber-algen-wissen-sollten
+      (07.06.2022)
+    </li>
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">
+      Nutzung als Energie:
+    </p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Anni Roenkae (2021): Wasserstoff aus Algen. Internet:
+      https://www.energieleben.at/wasserstoff-aus-algen/ (07.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Kb (2008): Wasserstoffproduktion mit Algen. Internet:
+      https://www.biooekonomie-bw.de/fachbeitrag/pm/wasserstoffproduktion-mit-algen
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Moritz Eick (2013): Klimawandel: Lösungsansatz Alge. Internet:
+      https://prezi.com/sptd3ackzpre/klimawandel-losungsansatz-alge/
+      (03.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Susanne Decker 2018: Algen als Treibstoff. Internet:
+      https://www.planet-wissen.de/natur/pflanzen/algen/pwiealgenimtank100.html
+      (03.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Susanne Decker 2018: Algen. Internet:
+      https://www.planet-wissen.de/natur/pflanzen/algen/index.html (29.05.2022)
+    </li>
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">Lunge:</p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Constanze Alvarez (2021): Die grüne Lunge der Meere. Internet:
+      https://www.br.de/wissen/seegras-seegraswiesen-posidonia-meer-kohlenstoff-klimawandel-100.html
+      (10.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Helmholtz Klima Initiative o. J.: "Für Seegraswiesen könnten die
+      Auswirkungen schwerwiegend sein". Internet:
+      https://www.helmholtz-klima.de/aktuelles/fuer-seegraswiesen-koennten-die-auswirkungen-schwerwiegend-sein
+      (13.05.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Martina Hilz 2019: Algenwälder als Hoffnungsträger. Internet:
+      https://enorm-magazin.de/umwelt/umweltschutz/klimaschutz/seegraswiesen-und-algenwalder-als-hoffnungstraeger
+      (07.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Susanne Kraus (2017): Mit Algen gegen Luftverschmutzung. Internet:
+      https://www.deutschlandfunk.de/filteranlage-in-paris-mit-algen-gegen-luftverschmutzung-100.html
+      (25.05.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Svjetlana Pejic-Pulkowski o. J.: Was Sie über Algen wissen sollten.
+      Internet:
+      https://www.geo.de/natur/oekologie/4203-rtkl-algen-was-sie-ueber-algen-wissen-sollten
+      (07.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Vanessa Reske (2019): Darum sollten wir Algen lieben. Internet:
+      https://www.quarks.de/umwelt/klimawandel/darum-sollten-wir-algen-lieben/
+      (25.05.2022)
+    </li>
+    <p class="text-center  text-xl md:text-3xl pb-5 font-apfel">Anbau:</p>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      AlgenProjekt o. J.: Algenkultivierung im Meer. Internet:
+      https://www.algenprojekt.de/algenkultivierung/algenkultivierung-im-meer/
+      (20.05.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Emma-Jane Cook, Nidhi Nagabhatla, Yacine Badis und weitere: Safeguarding
+      the future of the global seaweed aquaculture industry. Internet:
+      https://www.researchgate.net/publication/307601701_Safeguarding_the_future_of_the_global_seaweed_aquaculture_industry
+      (03.06.2022)
+    </li>
+    <li class="text-jutify  w-11/12 md:w-3/4  mx-auto dark:text-white">
+      Martina Hilz 2019: Algenwälder als Hoffnungsträger. Internet:
+      https://enorm-magazin.de/umwelt/umweltschutz/klimaschutz/seegraswiesen-und-algenwalder-als-hoffnungstraeger
+      (07.06.2022)
+    </li>
+  </ul>
 </div>
