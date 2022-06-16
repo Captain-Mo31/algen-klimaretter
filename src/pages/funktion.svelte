@@ -1,5 +1,5 @@
 <p class="text-center text-3xl md:text-5xl dark:text-white font-apfel">
-  Die Natürliche Funktion von Algen
+  Die natürliche Funktion von Algen
 </p>
 <div class="  p-5 mx-auto">
   <div class="header flex items-end justify-between mb-12 ">
